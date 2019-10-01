@@ -7,3 +7,5 @@ This project provides 2 options to the user: 1) Search by SP500 Company Twitter 
 Technologies Used: HTML, CSS, PHP, AJAX, AFS, Twitter Search API, Datumbox API.
 
 Team Size : 3 (Valmik Kalathia, Jessica Reiszel & Hardik Acharya)
+
+Project URL : https://web.njit.edu/~vvk34/SP500Crawler/index.php
